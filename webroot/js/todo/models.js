@@ -2,7 +2,7 @@ $(function(){
   window.Todo = Backbone.Model.extend({
     
     idAttribute: "_id",
-    urlRoot: "/cake/todos",
+    urlRoot: "/cakefest/todos",
 
     // Default attributes for the todo item.
     defaults: function() {

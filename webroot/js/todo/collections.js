@@ -4,7 +4,7 @@ $(function(){
 
     // Reference to this collection's model.
     model: Todo,
-    url: '/cake/todos',
+    url: '/cakefest/todos',
 
     // Save all of the todo items under the `"todos"` namespace.
     //localStorage: new Store("todos-backbone"),
